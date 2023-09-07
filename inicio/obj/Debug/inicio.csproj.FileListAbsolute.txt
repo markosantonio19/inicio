@@ -10,3 +10,4 @@ C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.csproj.GenerateResource.c
 C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.exe
 C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.pdb
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.Form3.resources

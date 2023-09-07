@@ -18,6 +18,9 @@ namespace inicio
         }
 
         private void button3_Click(object sender, EventArgs e)
+
+            // salto de registro
+
         {
             Form2 registre = new Form2();   
             registre.Show();
