@@ -1,0 +1,12 @@
+C:\Users\Alumno\Desktop\inicio\inicio\bin\Debug\inicio.exe.config
+C:\Users\Alumno\Desktop\inicio\inicio\bin\Debug\inicio.exe
+C:\Users\Alumno\Desktop\inicio\inicio\bin\Debug\inicio.pdb
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.Form1.resources
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.Form2.resources
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.Properties.Resources.resources
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.exe
+C:\Users\Alumno\Desktop\inicio\inicio\obj\Debug\inicio.pdb
